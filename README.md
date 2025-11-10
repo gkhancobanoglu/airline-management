@@ -237,4 +237,4 @@ They cannot view or modify other users’ data.
 📧 [gkhancobanoglu@gmail.com](mailto:gkhancobanoglu@gmail.com)  
 📞 +90 544 523 9802  
 🌐 [gokhancobanoglu.com.tr](https://gokhancobanoglu.com.tr)  
-💼 [LinkedIn](https://www.linkedin.com/in/gokhancobanoglu) • [GitHub](https://github.com/gkhancobanoglu)
+💼 [LinkedIn](https://www.linkedin.com/in/gokhan-cobanoglu) • [GitHub](https://github.com/gkhancobanoglu)
