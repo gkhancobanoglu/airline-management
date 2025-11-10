@@ -1,0 +1,31 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/airline_db
+    username: postgres
+    password: 1234
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+  application:
+    name: airline-management
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+  file:
+    name: logs/airline.log
+
+jwt:
+  secret: ${JWT_SECRET:bTqC1E7zF9rL2sU5xP0hN8kV4dQ6yZ3m}
+  expiration: 3600000
